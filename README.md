@@ -1,3 +1,2 @@
-![workflow](https://github.com/<DavidUrracaOrdiz>/<sem>/actions/workflows/main.yml/badge.svg)
-
-This is a test
+# Software Engineering Methods
+![GitHub Workflow Status (develop brancj)](https://img.shields.io/github/workflow/status/<DavidUrracaOrdiz>/<sem>/<action name taken from main.yml>/<branch>?style=flat-square)
